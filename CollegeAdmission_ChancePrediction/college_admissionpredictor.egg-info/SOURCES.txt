@@ -1,0 +1,5 @@
+setup.py
+college_admissionpredictor.egg-info/PKG-INFO
+college_admissionpredictor.egg-info/SOURCES.txt
+college_admissionpredictor.egg-info/dependency_links.txt
+college_admissionpredictor.egg-info/top_level.txt
